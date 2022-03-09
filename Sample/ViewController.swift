@@ -13,7 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         self.view.backgroundColor = .blue
         print("Updated new data................")
-        print("Email config added..")
+        print("Email config added...")
         // Do any additional setup after loading the view.
     }
 
