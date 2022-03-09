@@ -12,7 +12,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         self.view.backgroundColor = .blue
-        print("Updated new data......")
+        print("Updated new data...........")
         // Do any additional setup after loading the view.
     }
 
